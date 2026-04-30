@@ -12,4 +12,4 @@ collections:
   - name: community.general
   - name: awx.awx
   - name: amazon.aws
-  - name: git+https://github.com/mlorenzofr/rhvp.cluster_utils.git,jwt-discovery-retry
+  - name: git+https://github.com/mlorenzofr/rhvp.cluster_utils.git,jwt-discovery-fix
