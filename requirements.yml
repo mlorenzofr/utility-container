@@ -8,6 +8,6 @@ collections:
   - name: community.general
   - name: amazon.aws
   - name: rhvp.cluster_utils
-    source: https://github.com/validatedpatterns/rhvp.cluster_utils.git
+    source: https://github.com/mlorenzofr/rhvp.cluster_utils.git
     type: git
-    version: v1
+    version: vault-0.1.11
